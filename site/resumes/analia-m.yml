@@ -1,0 +1,29 @@
+template: "online-cv"
+skin: "ceramic"
+
+basic_info:
+
+    first_name: Analia
+    last_name: Magallanes
+    motto: Full-stack Developer
+ 
+ languages:
+      - idiom: Español
+        level: Nativo
+
+educacion:
+    - degree: 
+      university: 
+      time: 
+      details: 
+      
+experiencias:
+    - role: Estudiante
+      time: 
+      company: 4Geeks Academy
+      details:  
+      
+
+    
+ 
+        
